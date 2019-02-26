@@ -1,3 +1,10 @@
+# This is a fork of https://github.com/atomantic/dotfiles#installation 
+# My settings do not differ much, but should:
+- use natural scrolling
+- select correct font to run on Mac OSx Mojave
+- do not change os language
+- epmd -kill
+
 # \\[._.]/ - Hi, I'm the MacOS bot
 
 I will update your MacOS machine with Better™ system defaults, preferences, software configuration and even auto-install some handy development tools and apps that my developer friends find helpful.
@@ -81,7 +88,7 @@ To launch fullscreen, hit `Command + Enter` in iTerm, then use `Command + d` and
 > You are responsible for everything this script does to your machine (see LICENSE)
 
 ```bash
-git clone --recurse-submodules https://github.com/atomantic/dotfiles ~/.dotfiles
+git clone --recurse-submodules https://github.com/Macilias/dotfiles ~/.dotfiles
 cd ~/.dotfiles;
 # run this using terminal (not iTerm, lest iTerm settings get discarded on exit)
 ./install.sh
