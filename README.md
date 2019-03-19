@@ -2,8 +2,8 @@
 # My settings do not differ much, but should:
 - use natural scrolling
 - select correct font to run on Mac OSx Mojave
-- do not change os language
-- epmd -kill
+- do not change os language and increase keyboard speed (which also leads to problems)
+- do not kill icons (as the original option does on Mac OSx Mojave
 
 # \\[._.]/ - Hi, I'm the MacOS bot
 
