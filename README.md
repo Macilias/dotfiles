@@ -4,6 +4,7 @@
 - select correct font to run on Mac OSx Mojave
 - do not change os language and increase keyboard speed (which also leads to problems)
 - do not kill icons (as the original option does on Mac OSx Mojave
+- do not mess around with active corners. 
 
 # \\[._.]/ - Hi, I'm the MacOS bot
 
